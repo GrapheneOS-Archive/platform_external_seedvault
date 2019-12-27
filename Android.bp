@@ -1,0 +1,23 @@
+
+
+prebuilt_etc {
+    name: "permissions_com.stevesoltys.seedvault.xml",
+
+    product_specific: true,
+    src: "permissions_com.stevesoltys.seedvault.xml",
+    sub_dir: "permissions",
+
+}
+
+prebuilt_etc {
+    name: "whitelist_com.stevesoltys.seedvault.xml",
+
+    product_specific: true,
+
+    src: "whitelist_com.stevesoltys.seedvault.xml",
+    sub_dir: "sysconfig",
+
+}
+
+// ANDROIDMK TRANSLATION ERROR: unsupported include
+// include $(BUILD_PREBUILT)
