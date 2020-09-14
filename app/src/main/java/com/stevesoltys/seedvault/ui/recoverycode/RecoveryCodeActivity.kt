@@ -5,7 +5,6 @@ import android.view.MenuItem
 import com.stevesoltys.seedvault.R
 import com.stevesoltys.seedvault.ui.BackupActivity
 import com.stevesoltys.seedvault.ui.INTENT_EXTRA_IS_RESTORE
-import com.stevesoltys.seedvault.ui.INTENT_EXTRA_IS_SETUP_WIZARD
 import com.stevesoltys.seedvault.ui.LiveEventHandler
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
