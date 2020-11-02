@@ -14,6 +14,7 @@
     <string-array name="storage_authority_whitelist" tools:ignore="InconsistentArrays">
         <item>com.android.externalstorage.documents</item>
         <item>org.nextcloud.documents</item>
+        <item>com.seafile.seadroid2</item>
     </string-array>
 
 </resources>
